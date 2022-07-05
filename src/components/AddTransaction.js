@@ -20,7 +20,7 @@ export const AddTransaction = () => {
 
       addTransaction(newTransaction);
 
-      console.log(newTransaction)
+
     }
 
   return (
